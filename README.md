@@ -3,7 +3,7 @@
 #### A usable yet professional cross-platform programming framework for desktop, mobile, web and IoT apps.
 
 <p align="center">
-  <a title="Codefactor" target="_blank" href="https://github.com/RiversideValley/Flux/commits">
+  <a title="Codefactor" target="_blank" href="https://github.com/RiversideValley/Fluid/commits">
     <img align="left" src="https://www.codefactor.io/repository/github/RiversideValley/Fluid/badge" alt="Release" />
   </a>
   <a title="GitHub Releases" target="_blank" href="https://github.com/RiversideValley/Fluid/releases">
