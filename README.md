@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> Fluid has now become Codename Saltmarsh, which is a personal project owned by me.
+>
+> _At the time of writing, Saltmarsh, Fluid and Somerset are inside a **private** repository in [my user account](https://github.com/Lamparter), `Lamparter/Saltmarsh`. This repo may become public at any point, and this `README.md` file will **not** be updated accordingly._
+
 # ⚡ Fluid Runtime
 
 #### A usable yet professional cross-platform programming framework for desktop, mobile, web and IoT apps.
