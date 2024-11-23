@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35103.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Runtime", "Runtime\Runtime.pyproj", "{477906CF-1078-469E-9816-3CD61142D08A}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Riverside.Fluid.Runtime", "Runtime\Riverside.Fluid.Runtime.pyproj", "{477906CF-1078-469E-9816-3CD61142D08A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
